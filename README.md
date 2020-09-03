@@ -17,7 +17,6 @@
 
 <p align="center">
  <a href="#bulb-objective">Objective</a> •
- <a href="#star-screens">Screens</a> •
  <a href="#gear-technologies">Technologies</a> •
  <a href="#information_source-how-to-use">How to use</a> •
  <a href="#hand-author">Author</a>
@@ -29,18 +28,6 @@
 
 Integrate the best technologies, beautiful and friendly interface.
 
-## :star: Screens
-
-<div align="center">
-
-<img src=".github/assets/screens/create-account.jpeg" width="200"/>
-<img src=".github/assets/screens/login.jpeg" width="200"/>
-<img src=".github/assets/screens/home.jpeg" width="200"/>
-<img src=".github/assets/screens/list-and-remove-vehicles.jpeg" width="200"/>
-<img src=".github/assets/screens/add-vehicle.jpeg" width="200"/>
-<img src=".github/assets/screens/scanner.jpeg" width="200"/>
-<img src=".github/assets/screens/select-options.jpeg" width="200"/>
-<img src=".github/assets/screens/park-status.jpeg" width="200"/>
 
 </div>
 
