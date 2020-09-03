@@ -1,0 +1,44 @@
+{
+  "expends": [
+    {
+      "id": 1,
+      "name": "Almoço restaurante",
+      "category": "Alimentação",
+      "date": "2020-08-28T00:00:00.000Z",
+      "done": false,      
+      "price": 26.00
+    },
+    {
+      "id": 2,
+      "name": "Almoço restaurante",
+      "category": "Alimentação",
+      "date": "2020-08-28T00:00:00.000Z",
+      "done": false,        
+      "price": 326.00
+    },
+    {
+      "id": 3,
+      "name": "Almoço restaurante",
+      "category": "Alimentação",
+      "done": true,        
+      "date": "2020-08-27T00:00:00.000Z",
+      "price": 26.00
+    },
+    {
+      "id": 4,
+      "name": "Almoço restaurante",
+      "category": "Alimentação",
+      "date": "2020-08-27T00:00:00.000Z",
+      "done": false,        
+      "price": 26.00
+    },
+    {
+      "id": 5,
+      "name": "Almoço restaurante",
+      "category": "Alimentação",
+      "date": "2020-08-24T00:00:00.000Z",
+      "done": false,       
+      "price": 26.00
+    }         
+  ]
+}
